@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @coderfiregun
 - 👀 I’m interested in competetive programming
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning c++
+- 💞️ I’m looking to collaborate on problem solving
 
 <!---
 coderfiregun/coderfiregun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
