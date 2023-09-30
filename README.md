@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @coderfiregun
 - 👀 I’m interested in competetive programming
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning devlopment
 - 💞️ I’m looking to collaborate on problem solving
 
 <!---
